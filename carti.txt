@@ -1,0 +1,8 @@
+0001_Enigma Otiliei_Humanitas_false
+0002_Ion_Paralela 45_false
+0003_Fram Ursul Polar_Isoscel_false
+0004_Cei trei musafiri_Disney_false
+0005_Amintiri din copilarie_Elefant_false
+0006_Capra cu trei iezi_Adevarul pentru copii_false
+0007_Vrajitorul din Oz_Libris_false
+0008_Cum sa faci un proiect la POO_Ovidius_false
